@@ -1,4 +1,5 @@
 #This program calculates the bowling score when entered the number of pins hit on each turns
+# This program is written by rahul
 print('BOWLING SCORE CALCULATOR \n')
 
 frames =[] #Variable to store the score
